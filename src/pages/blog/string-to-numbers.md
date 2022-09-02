@@ -2,9 +2,9 @@
 layout: "../../layouts/BlogPost.astro"
 title: "Converting a String to a Number in JavaScript"
 description: "Lorem ipsum dolor sit amet"
-date_published: "December 1, 2019"
+datePublished: "December 1, 2019"
 tags: ["javascript"]
-hero_image: "/placeholder-hero.jpg"
+heroImage: "/placeholder-hero.jpg"
 ---
 
 There are several ways to convert a string to a number in JavaScript. Let's examine some of these solutions and some of their caveats.

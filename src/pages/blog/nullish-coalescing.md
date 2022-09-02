@@ -2,10 +2,10 @@
 layout: "../../layouts/BlogPost.astro"
 title: "Nullish Coalescing for JavaScript"
 description: "Lorem ipsum dolor sit amet"
-date_published: "May 5, 2020"
+datePublished: "May 5, 2020"
 lastUpdated: "October 14, 2020"
 tags: ["javascript"]
-hero_image: "/placeholder-hero.jpg"
+heroImage: "/placeholder-hero.jpg"
 ---
 
 Traditionally in JavaScript, when assigning a default value, we use the logical OR operator (`||`) to check if the left-hand side expression can be converted to false. If this left-hand side expression is falsy, the right-hand side is returned.

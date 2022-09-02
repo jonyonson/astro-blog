@@ -2,9 +2,9 @@
 layout: "../../layouts/BlogPost.astro"
 title: "Optional Chaining for JavaScript"
 description: "Lorem ipsum dolor sit amet"
-date_published: "October 14, 2020"
+datePublished: "October 14, 2020"
 tags: ["javascript"]
-hero_image: "/placeholder-hero.jpg"
+heroImage: "/placeholder-hero.jpg"
 ---
 
 Introduced in ES2020, the optional chaining operator, allows for a simple way to check the value of a deeply nested property within chained objects. Traditionally in JavaScript, getting the value of a deeply-nested property meant validating each reference in the chain.

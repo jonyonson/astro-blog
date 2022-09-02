@@ -2,7 +2,7 @@
 layout: "../../layouts/BlogPost.astro"
 title: "Event Bubbling and Capturing in React"
 description: "Lorem ipsum dolor sit amet"
-date_published: "February 12, 2022"
+datePublished: "February 12, 2022"
 tags: ["javascript", "react", "DOM"]
 hero_immage: "/placeholder-hero.jpg"
 ---

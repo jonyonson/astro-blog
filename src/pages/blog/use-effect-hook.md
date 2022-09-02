@@ -2,9 +2,9 @@
 layout: "../../layouts/BlogPost.astro"
 title: "An Introduction to the useEffect() Hook"
 description: "Lorem ipsum dolor sit amet"
-date_published: "December 27, 2019"
+datePublished: "December 27, 2019"
 tags: ["javascript", "react"]
-hero_image: "/placeholder-hero.jpg"
+heroImage: "/placeholder-hero.jpg"
 ---
 
 I previously wrote about the [useState hook](/use-state-hook) which allows us to make stateful functional components, but what happens when we need to fetch some data or manually change the DOM. Traditionally, these "side effects" have been handled by React's lifecycle methods, which are only available inside of a class component, and allow us to run some code whenever a component mounts and unmounts.
